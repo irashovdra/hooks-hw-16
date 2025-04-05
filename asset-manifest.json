@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hooks-hw-16/static/css/main.f9c30ccc.css",
+    "main.js": "/hooks-hw-16/static/js/main.1fa6fd56.js",
+    "index.html": "/hooks-hw-16/index.html",
+    "main.f9c30ccc.css.map": "/hooks-hw-16/static/css/main.f9c30ccc.css.map",
+    "main.1fa6fd56.js.map": "/hooks-hw-16/static/js/main.1fa6fd56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9c30ccc.css",
+    "static/js/main.1fa6fd56.js"
+  ]
+}
